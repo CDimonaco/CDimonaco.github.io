@@ -169,6 +169,7 @@ img{max-width: 100%;}
 figure{margin:0; padding: 15px;}
 pre{font-size: 14px; max-width: 90vw; overflow: auto;}
 .social-icon{height: 24px;}
+.bio-container{margin-bottom: 2rem;}
 
 @media (min-width: 1200px){
   .container, .container-lg, .container-md, .container-sm, .container-xl {
