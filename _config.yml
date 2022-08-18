@@ -1,25 +1,21 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: dimonaco.dev
+title: Carmine Di Monaco - computing pizza
+keywords: blog, carmine, di monaco, programming
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  dimonaco.dev - Carmine Di Monaco personal site and blog
 lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+timezone:  Europe/Rome
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Carmine Di Monaco
+  bio: Senior Software Engineer @ SUSE <br /> golang, elixir, node and pizza
   picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  github: CDimonaco # github username
+  twitter: CDimonaco # twitter username
+  linkedin: carmine-di-monaco # linkedin username
+  email: carmine.dimonaco@gmail.com # email adress
 
 
 # URL settings
