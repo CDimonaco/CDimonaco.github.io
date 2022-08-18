@@ -10,7 +10,7 @@ timezone:  Europe/Rome
 # Author settings
 author:
   name: Carmine Di Monaco
-  bio: Senior Software Engineer @ SUSE <br /> golang, elixir, node and pizza
+  bio: Senior Software Engineer @ SUSE <br />  Podcast Speaker @ <a href="https://gitbar.it"> Gitbar </a> <br /> golang, elixir, rust, node and pizza
   picture: assets/images/profile.jpg 
   github: CDimonaco # github username
   twitter: CDimonaco # twitter username
